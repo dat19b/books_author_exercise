@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e24a48f-b082-4d04-9de4-e12daf6ae5e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kea/clbo/model/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kea/clbo/model/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kea/clbo/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kea/clbo/model/Book.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

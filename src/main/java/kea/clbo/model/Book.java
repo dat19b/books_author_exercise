@@ -10,6 +10,6 @@ public class Book {
     private String isbn;
     private String publisher;
 
-    private Set<Author> authors = new HashSet<>();
+
 
 }

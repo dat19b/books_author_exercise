@@ -9,5 +9,5 @@ public class Author {
     private String firstName;
     private String lastName;
 
-    private Set<Book> books  = new HashSet<>();
+    
 }
